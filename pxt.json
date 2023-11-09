@@ -1,5 +1,5 @@
 {
-    "name": "Fahrstuhl und",
+    "name": "UND ODER NICHT",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -7,7 +7,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
